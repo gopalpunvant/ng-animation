@@ -10,13 +10,10 @@ import { trigger, style, animate, transition, state } from '@angular/animations'
 
       state('void', style({ opacity: 0 })),
 
-      transition('void => *', [
-        animate(2000)
-      ]),
-
-      transition('* => void', [
+      transition('void <=> *', [
         animate(2000)
       ])
+
     ])
   ]
 })
