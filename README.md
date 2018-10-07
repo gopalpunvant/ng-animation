@@ -1,6 +1,10 @@
 # NgAnimation
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+This project contains the Angular animation examples. View the commit history to view and learn the evolution of code examples. Commit history is so important in this project. By the time, I will continue to add more examples.
+
+## Want to contribute
+
+If you want to contribute then help me to improve animation effects and add new reusable animations. Fork the project, make changes and raise the PR.
 
 ## Development server
 
